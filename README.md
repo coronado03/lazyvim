@@ -1,7 +1,7 @@
 # 💤 LazyVim Config
 
 Welcome to my personal [LazyVim](https://www.lazyvim.org/) configuration!  
-This setup is mostly based on **LazyVim defaults**, with a minimal touch — currently, the only customization I've added is **GitHub Copilot** for AI-assisted coding.
+This setup is mostly based on **LazyVim defaults**, with a minimal touch — currently, the only customization I've added is **GitHub Copilot** for AI-assisted coding and Tmux-navigation for a better workflow.
 
 ## 🔧 What's Included
 
